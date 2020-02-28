@@ -1,0 +1,9 @@
+venv/
+old_get_politicians.py
+old_sejm_gov_pl_scraper.py
+scraper_log.log
+sejm_gov_pl_db.db
+sejm_gov_pl_db_v1.db
+sejm_gov_statistics.ipynb
+.DS_Store
+.idea/
